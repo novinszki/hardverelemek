@@ -1,6 +1,6 @@
 <style>
 * {box-sizing:border-box}
-body {background-image: url(""); background-repeat:no-repeat;background-size: cover;background-attachment: fixed;}
+body {background-image: url("HARDWARE.jpg"); background-repeat:no-repeat;background-size: cover;background-attachment: fixed;}
 body {background-image: url("HARDWARE.jpg"); background-repeat:no-repeat;background-size: cover;background-attachment: fixed;}
 .header {display: flex; justify-content: space-around; width:100%}
 .img_header_div {background-color:rgba(255,255,0,0.6) ;width:20%; border-radius:10%;}
