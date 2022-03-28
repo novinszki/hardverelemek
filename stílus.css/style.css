@@ -1,0 +1,50 @@
+)* {box-sizing: border-box;}
+body {background-image: url("../pict/háttér.png");
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-attachment: fixed;}
+.header {display: flex;
+         justify-content: space-around;
+         width:100%}
+.img_header_div {background-color:rgba(255,255,0,0.6);
+       width: 20%;
+    border-radius:10%;}
+.title_header{width:60%;
+    background-color:rgba(255,255,0,0.6);
+    padding-top:1em;
+    font-size:2.5em; 
+    font-weight:bolder;
+    box-shadow:3px 3px 3px black}
+.img9et {width:100%;
+    padding:10px;
+    outline:3px solid black;
+    border-radius:10%;}
+h1 {text-align: center;
+    color:brown;
+    text-shadow: 3px 3px 3px black;}
+nav {display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+    background-color: rgba(255,255,0,0.6);
+    margin-top: 2em;
+    box-shadow: 3px 3px 3px black;}    
+h2 {color: brown}
+.kep1 {width: 100%}
+.kep {text-align: center;
+text-decoration: underline;}
+.elso, .masodik, .harmadik {margin-right: 40px;
+text-align: justify;
+background-color: rgba(197, 187, 16, 0.6);
+border-left: 10px solid orange;}
+.wrapper {display: flex;
+flex-direction: row;
+width:80%;
+margin-left: auto;
+margin-right: auto;
+text-align:center;}
+.stb {border-color: black;}
+p {padding: 1em;}
